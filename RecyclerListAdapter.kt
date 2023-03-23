@@ -1,5 +1,5 @@
 
-class RecyclerListAdapter(
+class RecyclerListAdapter(fgsdfg
     private var context: Context, private var data: ArrayList<String>
 ) : RecyclerView.Adapter<RecyclerListAdapter.SingleViewHolder>() {
 
